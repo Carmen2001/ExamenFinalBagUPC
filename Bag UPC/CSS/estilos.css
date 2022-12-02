@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Inter:wght@100&family=Roboto:wght@100;400;900&display=swap');
+
+body {
+    font-family: 'Fasthand', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabecera {
+    position: relative;
+    background: url(../Imagenes/cabecera.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.textoCabecera {
+    padding-top: 130px;
+    color: #c76838;
+    font-family: 'Roboto', sans-serif;
+}
+
+.SobreNosotros {
+    background: #fff;
+    min-width: 270px;
+}
+
+.Titulo1 {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color:  #371f17;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.col1 {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.col2 {
+    padding-top: 10px;
+}
+
+.col1, .col2{
+    text-align: center;
+}
+
+.imagenes1 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.Imagenes {
+    background-color: #F6E2D7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.TituloFuncionalidades {
+    background-color: #fff;
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.linea {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 250px;
+    height: 7px;
+    background-color: #c76838;
+}
+
+.Titulo2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #8d3113;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.subtitulo {
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: #f5431a;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+
+.subtitulo2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: #f5431a;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+
+.parrafo1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #c76838;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+}
+
+.OfertadeValor {
+    background-color: rgb(219, 218, 218);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Titulo3 {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #8d3113;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.Descargas {
+    background-color: #f7e9e1;
+    padding-bottom: 25px;
+}
+
+.TextoDescarga {
+    color: rgb(109, 105, 105);
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Footer {
+    background-color: #ecb09c;
+    height: 100px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
